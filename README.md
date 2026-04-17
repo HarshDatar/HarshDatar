@@ -29,11 +29,15 @@
 
 📂 Featured Projects
 🛠️ Completed & Live
+
+
+
+
 📦 Inventory Management System
 
 A robust solution for tracking stock levels, orders, and deliveries.
 
-Tech: Java / SQL
+Tech: Python / SQL
 
 Focus: Database integrity and CRUD operations.
 
