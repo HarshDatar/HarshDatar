@@ -52,7 +52,7 @@ A hardware-software simulation converting English text to Morse signals.
 
 Tech: C++, Arduino, Tinkercad.
 
-🔗 View Live Simulation
+🔗 View Live Simulation : https://www.tinkercad.com/things/j3gBwMSwECj-pai-arduino-project/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=q6azBJYj7N56yIy_YGNal2Bxu43d3I44LHKUV39dvb4
 
 🧪 In Development (Coming Soon)
 ⚖️ AI-Powered Legal Case Management
