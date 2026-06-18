@@ -64,3 +64,7 @@ Automating legal workflows and document transparency using AI.
 📈 Stock Analysis AI
 
 Utilizing Python (Pandas/Matplotlib) to predict and visualize market trends.
+
+
+Farmer Advisor AI
+Utilising Python to advise farmers on different doubts and questions related to their farms and crops.
