@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Currently in my **2nd Year (SY)** of Computer Science and Engineering.
+- 🎓 Currently in my **3rd Year (TY)** of Computer Science and Engineering.
 - 📊 Deeply interested in **Data Visualization** and **Data Science**
 - 🏆 **Cambridge Linguaskill Certified** (Fluent in English).
 - 🏎️ F1 Fanatic (Forza Ferrari! 🐎)
